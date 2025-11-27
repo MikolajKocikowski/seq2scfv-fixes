@@ -12,7 +12,7 @@ I encountered compatibility and permission issues when building the Dockerfile w
 
 ## The Solutions
 
-There are two options to modify the corresponding code.
+There are two versions of the solution; both modify a chunk of the `Dockerfile` code (make it look like below).
 
 **Simple Solution:** This solution installs gtable version 0.3.0 from the CRAN archive, which is compatible with R 3.6.3, and sets the correct permissions for install2.r. This approach ensures the build completes successfully without many changes.
 
