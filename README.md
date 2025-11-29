@@ -1,5 +1,9 @@
 # seq2scfv-fixes
 
+## 2025-11-29 Update
+
+The fixes described in this repository are no longer sufficient. A fully updated and functional version of the Dockerfile will is now maintained here: https://github.com/MikolajKocikowski/seq2scfv. This repository is retained for archival purposes.
+
 ## About
 
 [Seq2scfv](https://github.com/ngs-ai-org/seq2scfv) is a fantastic tool for scFv analysis, but I had trouble getting it to run on my machines. This repository documents fixes and workarounds that made it functional for me. It's not affiliated with the original authors. I submitted a related [issue](https://github.com/ngs-ai-org/seq2scfv/issues/2) and pull requests, but given that the official repo is tied to a published paper, I understand that updates may be limited. Hence, I will maintain any further updates or tweaks here in case they're useful to others. I'm not a Docker expert - feedback always welcome!
