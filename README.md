@@ -2,7 +2,7 @@
 
 ## 2025-11-29 Update
 
-The fixes described in this repository are no longer sufficient. A fully updated and functional version of the Dockerfile will is now maintained here: https://github.com/MikolajKocikowski/seq2scfv. This repository is retained for archival purposes.
+The fixes described in this repository are no longer sufficient. A fully updated and functional version of the Dockerfile will is now maintained here: [https://github.com/MikolajKocikowski/seq2scfv](https://github.com/MikolajKocikowski/seq2scfv-unofficial-updated). This repository is retained for archival purposes.
 
 ## About
 
